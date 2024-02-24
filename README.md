@@ -28,3 +28,7 @@ Furthermore, our platform includes candlestick chart analysis, a widely used tec
 To complement our quantitative analysis, we employ web scraping to gather fundamental metrics, providing users with essential data points for evaluating investment opportunities. From financial statements to key performance indicators, our platform offers a comprehensive overview of each company's fundamentals, enabling users to make well-informed investment decisions.
 
 With these integrated components, our platform offers a holistic approach to stock analysis, combining advanced technologies, real-time data, and user-friendly interfaces to empower investors with actionable insights and decision support.
+
+
+### Contributors
+Aagmandeep Bhatia, Aditi Jaiswal, Gul Bansal, Kaustubh Rastogi, Kushal Matalia, Yash Mathur
