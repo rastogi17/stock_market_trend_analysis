@@ -1,4 +1,5 @@
-# RISE.ai
+# RISE.ai ![Riseai_logo](https://github.com/rastogi17/stock_market_trend_analysis/assets/146025595/8f8ffc05-7be1-43bd-ac51-75b403eb7a41)
+
 
 Welcome to RISE.ai, your comprehensive solution for empowering investors with cutting-edge analytical tools tailored specifically for NIFTY 50 listed companies. We employ advanced technologies and methodologies to deliver unparalleled insights into stock trends and market dynamics.
 
