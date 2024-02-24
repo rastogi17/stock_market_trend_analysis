@@ -7,7 +7,7 @@ from chatbot import chat
 from combined import dashboard
 import base64
 
-logo = Image.open('D:/Documents/Plaksha TLP/DataX Python/Group_Proj/RISE/Rise.ai logo.png')
+logo = Image.open('Riseai_logo.png')
 
 PAGES = {
     "About Us": aboutUs,
