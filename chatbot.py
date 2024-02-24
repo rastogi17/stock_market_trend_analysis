@@ -52,9 +52,7 @@ def create_vector_store(text_chunks):
     """
     embeddings = OpenAIEmbeddings()
     # Some open source embeddings model using hugging face
-    # embeddings = HuggingFaceBgeEmbeddings(model_name="BAAI/bge-small-en-v1.5")
     # embeddings = HuggingFaceInstructEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2"
-    # embeddings = HuggingFaceEmbeddings(model_name = 'Bmaidalun1020/bce-embedding-base_v1')
     vector_store = FAISS.from_texts(texts=text_chunks, embedding=embeddings)
     return vector_store
 
